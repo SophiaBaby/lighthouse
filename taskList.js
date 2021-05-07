@@ -1,5 +1,4 @@
 module.exports = [
-  `https://juejin.cn/`,
-  `https://juejin.cn/`,
+  `https://ils.sf-express.com/static/pass.html#/`,
   `https://juejin.cn/`,
 ]
